@@ -1,0 +1,22 @@
+[
+    {
+        "card-title": "Our Product 1",
+        "price": 259.99,
+        "imageURL": "img/ourProduct1.jpg"
+    },
+    {
+        "card-title": "Our Product 2",
+        "price": 356.99,
+        "imageURL": "img/ourProduct2.jpg"
+    },
+    {
+        "card-title": "Our Product 3",
+        "price": 149.99,
+        "imageURL": "img/ourProduct3.jpg"
+    },
+    {
+        "card-title": "Our Product 4",
+        "price": 492.99,
+        "imageURL": "img/ourProduct4.jpg"
+    }
+]
